@@ -42,7 +42,7 @@ while (i < x):
     i += 1
 
 #User input
-answer = input("How many flashes did you see?")
+answer = input("How many flashes did you see? ")
 
 #Outputs
 if (answer == x):
